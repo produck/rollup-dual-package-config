@@ -1,0 +1,1 @@
+# rollup-dual-package-config
